@@ -1,3 +1,3 @@
-move_bounce_all(false);
+//move_bounce_all(false);
 
 
