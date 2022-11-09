@@ -11,14 +11,13 @@ switch(room){
 		room_width/2,100,"SPACE ROCKS",3,3,0,c,c,c,c,1
 		)
 		draw_text(room_width/2,200,
-			@"Score 1000 points to win!
-		
-			UP: move
-			LEFT/RIGHT: change direction
-			SPACE: shoot
-		
-			>> Press enter to start <<
-			"
+@"Score 1000 points to win!
+
+UP: move
+LEFT/RIGHT: change direction
+SPACE: shoot
+
+>> Press enter to start <<"
 		);
 		draw_set_halign(fa_left);
 		break;
