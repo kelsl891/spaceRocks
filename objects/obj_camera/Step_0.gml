@@ -10,5 +10,4 @@ if(instance_exists(target)){
 
 camera_set_view_pos(view_camera[0], cameraX, cameraY);
 
-
-
+spawn_off_camera()
