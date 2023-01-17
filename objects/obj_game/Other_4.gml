@@ -1,7 +1,7 @@
 
 
 if(room == rm_game){
-	audio_play_sound(msc_song,2,true);
+	//audio_play_sound(msc_song,2,true);
 	
 	repeat(6){
 		var xx = choose(
