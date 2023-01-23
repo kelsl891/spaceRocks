@@ -2,7 +2,7 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 ///@arg obj
 ///@arg number
-function spawn_off_camera(){
+function spawn_off_camera(argument0,argument1){
 	var obj = argument0;
 	var num = argument1;
 	var xx,yy;
